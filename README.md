@@ -2,7 +2,7 @@
 # Hello there <img src="https://raw.githubusercontent.com/KnutHendrikS/KnutHendrikS/master/wave.gif" width="30px">
 # My name is Knut Hendrik Schnur
 
-### Fun fact: My firstname Knut means "Knot" in Swedish and my lastname "Schnur" means rope in German.
+### Fun fact: My firstname Knut means "Knot" in Swedish and my lastname Schnur means "Rope" in German.
 
 ### I'm a student at Turku University of Applied Sciences
 #### More info on me:
