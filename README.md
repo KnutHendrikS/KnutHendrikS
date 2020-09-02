@@ -1,5 +1,5 @@
 
-# Hello there <img src="https://raw.githubusercontent.com/KnutHendrikS/KnutHendrikS/master/wave.gif" width="30px">
+# Hello there 👋😁
 # My name is Knut Hendrik Schnur
 
 ### Fun fact: My firstname Knut means "Knot" in Swedish and my lastname Schnur means "Rope" in German.
