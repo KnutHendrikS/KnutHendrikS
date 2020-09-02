@@ -22,4 +22,4 @@
 
 ### 📫 How to reach me:
 [![Gmail Badge](https://img.shields.io/badge/hendrik.schnur16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hendrik.schnur16@gmail.com)](mailto:hendrik.schnur16@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-KnutHendrikSchnur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/knut-hendrik-schnur/)](https://www.linkedin.com/in/knut-hendrik-schnur/)
+[![Linkedin Badge](https://img.shields.io/badge/-KnutHendrikSchnur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/knut-hendrik-schnur-4aa737158/)](https://www.linkedin.com/in/knut-hendrik-schnur-4aa737158/)
